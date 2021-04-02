@@ -1,2 +1,2 @@
-# by-interview
+# 个人求职面经题解，持续更新...
 interview experience by company
